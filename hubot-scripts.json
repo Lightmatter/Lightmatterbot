@@ -1,2 +1,5 @@
 ["redis-brain.coffee", "shipit.coffee", "9gag.coffee", "abstract.coffee", "achewood.coffee", "andriod-os.coffee",
- "annouce.coffee", "bitcoin.coffee", "catfact.coffee", "coin.coffee", "darksky.coffee", "deadline.coffee", "flip.coffee", "mta.coffee"]
+ "annouce.coffee", "bitcoin.coffee", "catfacts.coffee", "coin.coffee", "deadline.coffee", "flip.coffee", "mta.coffee"]
+
+
+//"darksky.coffee"
