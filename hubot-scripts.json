@@ -1,2 +1,1 @@
-["redis-brain.coffee", "shipit.coffee", "abstract.coffee", "android-os.coffee",
- "announce.coffee", "bitcoin.coffee", "catfacts.coffee", "coin.coffee", "deadline.coffee", "flip.coffee", "mta.coffee", "dealwithit.coffee"]
+["redis-brain.coffee", "shipit.coffee", "abstract.coffee",  "announce.coffee", "bitcoin.coffee", "catfacts.coffee", "coin.coffee", "deadline.coffee", "flip.coffee", "mta.coffee", "dealwithit.coffee"]
